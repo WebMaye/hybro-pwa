@@ -1,0 +1,38 @@
+{
+    "background_color": "#fff",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#282828",
+    "short_name": "Hybro",
+    "name": "Hybro Team",
+    "description": "Want to enjoy a better quality of life and work efficiency? Or you want to have a good game and fight? Let's go & check out our amazing apps and games!",
+    "lang": "en-US",
+    "icons": [{
+            "src": "icons/hybroicon48x48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "icons/hybroicon96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "icons/hybroicon144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "icons/hybroicon192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "icons/hybroicon512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "index.html?launcher=true",
+    "scope": "/"
+}
